@@ -1,10 +1,11 @@
 # Saudi-Arabia-Real-Estate-Sales-Analysis
 
+![Saudi Arabia Real Estate Sales Analysis](https://github.com/NourBerakdar/Saudi-Arabia-Real-Estate-Sales-Analysis/assets/86231584/71d3a387-cfd3-48db-a6b9-50e832ed3da1)
+
 I analyzed real estate sales data for the Kingdom of Saudi Arabia using Power BI.
 This data was gathered from the Saudi Open Data website.
 
 During this analysis, several important and useful insights were uncovered, including:
-
 - Total Sales: amounting to 1.72 trillion Saudi Riyals.
 - Number of Units Sold: reaching approximately 2 million residential units, including land plots, villas, and apartments.
 - Total Deals: reaching 33,000 transactions.
